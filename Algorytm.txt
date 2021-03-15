@@ -1,0 +1,7 @@
+1. najpierw tworze galaz z pomoca git branch ziolkowski.bartosz.lista0x
+2. potem przełączam się na listę chwilę temu stworzoną z pomocą git checkout ziolkowski.bartosz.lista0x
+3. dodaje pliki do dolderu solutions z z...h
+potem git add .
+git commit -m "Publikacja zadan"
+git push origin ziolkowski.bartosz.lista0x
+potem ide na githuba i tam robie pull request z tytulem Lab x - 256775
